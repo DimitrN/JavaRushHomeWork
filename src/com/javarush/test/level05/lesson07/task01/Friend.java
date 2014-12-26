@@ -13,9 +13,18 @@ public class Friend
     private int age;
     boolean gender;
 
-    public void initialize (String name){
+    public void initialize(String name) {
         this.name = name;
     }
 
+    public void initialize(String name, int age) {
+        this.name = name;
+        this.age = age;
+    }
 
+    public void initialize (String name, int age, boolean gender) {
+        this.name = name;
+        this.age = age;
+        this.gender = gender;
+    }
 }

@@ -12,8 +12,8 @@ public class Solution
     public static void main(String[] args)   throws Exception
     {
         int count = 0;
+        BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
         while (true){
-            BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
             int a = Integer.parseInt(br.readLine());
             if (a==-1){
                 count+=a;
