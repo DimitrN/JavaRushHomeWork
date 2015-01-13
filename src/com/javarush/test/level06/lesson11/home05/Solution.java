@@ -10,7 +10,7 @@ package com.javarush.test.level06.lesson11.home05;
 public class Solution
 {
     public static void printIdea (Idea idea){
-        System.out.println(Idea.getDescription());
+        System.out.println(idea.getDescription());
     }
 
     public static void main(String[] args)
@@ -20,7 +20,7 @@ public class Solution
     //добавьте класс Idea тут
 
     public static class Idea{
-        public static String getDescription(){
+        public String getDescription(){
             return "Text";
         }
     }
