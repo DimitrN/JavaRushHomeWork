@@ -2,22 +2,22 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="49e868cb-6c28-469e-9a04-9674b5bddb2b" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/javarush/test/level06/lesson11/bonus01/Solution.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/javarush/test/level06/lesson11/bonus02/Solution.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/javarush/test/level06/lesson11/bonus03/Solution.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/javarush/test/level06/lesson11/home06/Solution.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/javarush/test/level06/lesson11/home07/Solution.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/javarush/test/level07/lesson04/task01/Solution.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/javarush/test/level07/lesson04/task02/Solution.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/javarush/test/level07/lesson04/task03/Solution.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/javarush/test/level07/lesson04/task04/Solution.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/javarush/test/level07/lesson04/task05/Solution.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/javarush/test/level06/lesson11/home05/Solution.java" afterPath="$PROJECT_DIR$/src/com/javarush/test/level06/lesson11/home05/Solution.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/javarush/test/level07/lesson06/task01/Solution.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/javarush/test/level07/lesson06/task02/Solution.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/javarush/test/level07/lesson06/task03/Solution.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/javarush/test/level07/lesson06/task04/Solution.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/javarush/test/level07/lesson06/task05/Solution.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/javarush/test/level07/lesson09/task01/Solution.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/javarush/test/level07/lesson09/task02/Solution.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/javarush/test/level07/lesson09/task03/Solution.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/javarush/test/level07/lesson09/task04/Solution.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/javarush/test/level07/lesson09/task05/Solution.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/javarush/test/level06/lesson11/bonus02/Solution.java" afterPath="$PROJECT_DIR$/src/com/javarush/test/level06/lesson11/bonus02/Solution.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="JavaRushHomeWork.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/Solution.java" changelist="49e868cb-6c28-469e-9a04-9674b5bddb2b" time="1421160351389" ignored="false" />
+    <file path="/Solution.java" changelist="49e868cb-6c28-469e-9a04-9674b5bddb2b" time="1421853617008" ignored="false" />
     <file path="$PROJECT_DIR$/../ACO3/src/ua/artcode/FileUtils.java" changelist="49e868cb-6c28-469e-9a04-9674b5bddb2b" time="1419326463715" ignored="false" />
     <file path="$PROJECT_DIR$/../ACO3/homework/Useful_Information" changelist="49e868cb-6c28-469e-9a04-9674b5bddb2b" time="1419327638928" ignored="false" />
     <file path="/Useful_Information" changelist="49e868cb-6c28-469e-9a04-9674b5bddb2b" time="1419327635024" ignored="false" />
@@ -28,12 +28,16 @@
     <file path="$PROJECT_DIR$/../ACO3/src/ua/artcode/week4/day2/Cat.java" changelist="49e868cb-6c28-469e-9a04-9674b5bddb2b" time="1419327291521" ignored="false" />
     <file path="/Cat.java" changelist="49e868cb-6c28-469e-9a04-9674b5bddb2b" time="1421077195453" ignored="false" />
     <file path="$PROJECT_DIR$/../ACO3/src/JavaRush/Table_digit.java" changelist="49e868cb-6c28-469e-9a04-9674b5bddb2b" time="1419348045311" ignored="false" />
-    <file path="/Dummy.txt" changelist="49e868cb-6c28-469e-9a04-9674b5bddb2b" time="1421078788293" ignored="false" />
+    <file path="/Dummy.txt" changelist="49e868cb-6c28-469e-9a04-9674b5bddb2b" time="1421164846458" ignored="false" />
     <file path="/Dog.java" changelist="49e868cb-6c28-469e-9a04-9674b5bddb2b" time="1419584761990" ignored="false" />
     <file path="/Friend.java" changelist="49e868cb-6c28-469e-9a04-9674b5bddb2b" time="1419603347478" ignored="false" />
     <file path="/Circle.java" changelist="49e868cb-6c28-469e-9a04-9674b5bddb2b" time="1419584901706" ignored="false" />
     <file path="/Rectangle.java" changelist="49e868cb-6c28-469e-9a04-9674b5bddb2b" time="1419603632577" ignored="false" />
     <file path="/fragment.java" changelist="49e868cb-6c28-469e-9a04-9674b5bddb2b" time="1421153247231" ignored="false" />
+    <file path="$PROJECT_DIR$/../ACO3/src/JavaRush/Collection_example.java" changelist="49e868cb-6c28-469e-9a04-9674b5bddb2b" time="1421836411240" ignored="false" />
+    <file path="/Collection_example.java" changelist="49e868cb-6c28-469e-9a04-9674b5bddb2b" time="1421836411240" ignored="false" />
+    <file path="$PROJECT_DIR$/../ACO3/src/ua/artcode/week8/ContainsMyComparator.java" changelist="49e868cb-6c28-469e-9a04-9674b5bddb2b" time="1421836492555" ignored="false" />
+    <file path="/ContainsMyComparator.java" changelist="49e868cb-6c28-469e-9a04-9674b5bddb2b" time="1421836484609" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -281,6 +285,146 @@
         <option name="CONDITION" value="" />
         <option name="LOG_MESSAGE" value="" />
       </breakpoint>
+      <breakpoint url="file://$PROJECT_DIR$/src/com/javarush/test/level07/lesson06/task02/Solution.java" line="25" class="com.javarush.test.level07.lesson06.task02.Solution" package="com.javarush.test.level07.lesson06.task02">
+        <option name="ENABLED" value="true" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="SUSPEND" value="true" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="true" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="" />
+        <option name="LOG_MESSAGE" value="" />
+      </breakpoint>
+      <breakpoint url="file://$PROJECT_DIR$/src/com/javarush/test/level07/lesson09/task04/Solution.java" line="45" class="com.javarush.test.level07.lesson09.task04.Solution" package="com.javarush.test.level07.lesson09.task04">
+        <option name="ENABLED" value="true" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="SUSPEND" value="true" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="true" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="" />
+        <option name="LOG_MESSAGE" value="" />
+      </breakpoint>
+      <breakpoint url="file://$PROJECT_DIR$/src/com/javarush/test/level07/lesson09/task04/Solution.java" line="47" class="com.javarush.test.level07.lesson09.task04.Solution" package="com.javarush.test.level07.lesson09.task04">
+        <option name="ENABLED" value="true" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="SUSPEND" value="true" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="true" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="" />
+        <option name="LOG_MESSAGE" value="" />
+      </breakpoint>
+      <breakpoint url="file://$PROJECT_DIR$/src/com/javarush/test/level07/lesson09/task04/Solution.java" line="46" class="com.javarush.test.level07.lesson09.task04.Solution" package="com.javarush.test.level07.lesson09.task04">
+        <option name="ENABLED" value="true" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="SUSPEND" value="true" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="true" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="" />
+        <option name="LOG_MESSAGE" value="" />
+      </breakpoint>
+      <breakpoint url="file://$PROJECT_DIR$/src/com/javarush/test/level07/lesson09/task04/Solution.java" line="48" class="com.javarush.test.level07.lesson09.task04.Solution" package="com.javarush.test.level07.lesson09.task04">
+        <option name="ENABLED" value="true" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="SUSPEND" value="true" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="true" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="" />
+        <option name="LOG_MESSAGE" value="" />
+      </breakpoint>
+      <breakpoint url="file://$PROJECT_DIR$/src/com/javarush/test/level07/lesson09/task04/Solution.java" line="49" class="com.javarush.test.level07.lesson09.task04.Solution" package="com.javarush.test.level07.lesson09.task04">
+        <option name="ENABLED" value="true" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="SUSPEND" value="true" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="true" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="" />
+        <option name="LOG_MESSAGE" value="" />
+      </breakpoint>
+      <breakpoint url="file://$PROJECT_DIR$/src/com/javarush/test/level07/lesson09/task04/Solution.java" line="50" class="com.javarush.test.level07.lesson09.task04.Solution" package="com.javarush.test.level07.lesson09.task04">
+        <option name="ENABLED" value="true" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="SUSPEND" value="true" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="true" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="" />
+        <option name="LOG_MESSAGE" value="" />
+      </breakpoint>
+      <breakpoint url="file://$PROJECT_DIR$/src/com/javarush/test/level07/lesson09/task04/Solution.java" line="51" class="com.javarush.test.level07.lesson09.task04.Solution" package="com.javarush.test.level07.lesson09.task04">
+        <option name="ENABLED" value="true" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="SUSPEND" value="true" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="true" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="" />
+        <option name="LOG_MESSAGE" value="" />
+      </breakpoint>
+      <breakpoint url="file://$PROJECT_DIR$/src/com/javarush/test/level07/lesson09/task04/Solution.java" line="53" class="com.javarush.test.level07.lesson09.task04.Solution" package="com.javarush.test.level07.lesson09.task04">
+        <option name="ENABLED" value="true" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="SUSPEND" value="true" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="true" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="" />
+        <option name="LOG_MESSAGE" value="" />
+      </breakpoint>
+      <breakpoint url="file://$PROJECT_DIR$/src/com/javarush/test/level07/lesson09/task04/Solution.java" line="56" class="com.javarush.test.level07.lesson09.task04.Solution" package="com.javarush.test.level07.lesson09.task04">
+        <option name="ENABLED" value="true" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="SUSPEND" value="true" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="true" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="" />
+        <option name="LOG_MESSAGE" value="" />
+      </breakpoint>
     </line_breakpoints>
     <breakpoint_rules />
     <ui_properties />
@@ -292,27 +436,9 @@
   <component name="FileEditorManager">
     <leaf>
       <file leaf-file-name="Solution.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/javarush/test/level06/lesson11/home06/Solution.java">
+        <entry file="file://$PROJECT_DIR$/src/com/javarush/test/level07/lesson04/task01/Solution.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="5" column="88" selection-start="170" selection-end="170" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Solution.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/javarush/test/level06/lesson11/home07/Solution.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="8" column="50" selection-start="236" selection-end="236" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Solution.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/javarush/test/level06/lesson11/bonus01/Solution.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="17" column="53" selection-start="541" selection-end="541" vertical-scroll-proportion="0.0">
+            <state line="44" column="1" selection-start="52" selection-end="1307" vertical-scroll-proportion="0.0">
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -320,65 +446,107 @@
           </provider>
         </entry>
       </file>
+      <file leaf-file-name="Solution.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/javarush/test/level07/lesson09/task01/Solution.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="28" column="55" selection-start="1179" selection-end="1179" vertical-scroll-proportion="0.0">
+              <folding>
+                <element signature="e#785#794#0" expanded="true" />
+                <element signature="e#852#861#0" expanded="true" />
+                <element signature="e#919#928#0" expanded="true" />
+                <element signature="e#984#993#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Solution.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/javarush/test/level07/lesson09/task02/Solution.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="19" column="44" selection-start="594" selection-end="594" vertical-scroll-proportion="0.0">
+              <folding>
+                <element signature="e#417#425#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Solution.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/javarush/test/level07/lesson09/task03/Solution.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="16" column="62" selection-start="498" selection-end="498" vertical-scroll-proportion="0.0">
+              <folding>
+                <element signature="e#545#553#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Solution.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/javarush/test/level07/lesson09/task04/Solution.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="42" column="86" selection-start="1006" selection-end="1006" vertical-scroll-proportion="0.0">
+              <folding>
+                <element signature="e#758#766#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file leaf-file-name="Solution.java" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/com/javarush/test/level06/lesson11/bonus02/Solution.java">
+        <entry file="file://$PROJECT_DIR$/src/com/javarush/test/level07/lesson09/task05/Solution.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="41" column="70" selection-start="1552" selection-end="1552" vertical-scroll-proportion="0.79376084">
-              <folding />
+            <state line="26" column="30" selection-start="936" selection-end="936" vertical-scroll-proportion="0.5580589">
+              <folding>
+                <element signature="e#589#597#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="Solution.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/javarush/test/level07/lesson04/task05/Solution.java">
+        <entry file="file://$PROJECT_DIR$/src/com/javarush/test/level07/lesson06/task02/Solution.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="13" column="43" selection-start="501" selection-end="501" vertical-scroll-proportion="0.0">
-              <folding />
+            <state line="22" column="19" selection-start="770" selection-end="770" vertical-scroll-proportion="0.0">
+              <folding>
+                <element signature="e#639#647#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="Solution.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/javarush/test/level07/lesson04/task01/Solution.java">
+        <entry file="file://$PROJECT_DIR$/src/com/javarush/test/level07/lesson06/task03/Solution.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="30" column="71" selection-start="1016" selection-end="1016" vertical-scroll-proportion="0.0">
-              <folding />
+            <state line="26" column="49" selection-start="790" selection-end="790" vertical-scroll-proportion="0.0">
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#504#512#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="Solution.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/javarush/test/level07/lesson04/task02/Solution.java">
+        <entry file="file://$PROJECT_DIR$/src/com/javarush/test/level07/lesson06/task04/Solution.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="16" column="27" selection-start="522" selection-end="522" vertical-scroll-proportion="0.0">
-              <folding />
+            <state line="24" column="8" selection-start="803" selection-end="803" vertical-scroll-proportion="0.0">
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#509#517#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="Solution.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/javarush/test/level07/lesson04/task03/Solution.java">
+        <entry file="file://$PROJECT_DIR$/src/com/javarush/test/level07/lesson06/task05/Solution.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="17" column="51" selection-start="624" selection-end="624" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Solution.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/javarush/test/level07/lesson04/task04/Solution.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="18" column="47" selection-start="580" selection-end="580" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Solution.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/javarush/test/level06/lesson11/bonus03/Solution.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="7" column="99" selection-start="168" selection-end="267" vertical-scroll-proportion="0.0">
-              <folding />
+            <state line="3" column="37" selection-start="55" selection-end="122" vertical-scroll-proportion="0.0">
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#590#598#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -401,22 +569,22 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/src/com/javarush/test/level05/lesson09/task05/Rectangle.java" />
-        <option value="$PROJECT_DIR$/src/com/javarush/test/level06/lesson11/home01/Solution.java" />
-        <option value="$PROJECT_DIR$/src/com/javarush/test/level06/lesson11/home02/Cat.java" />
-        <option value="$PROJECT_DIR$/src/com/javarush/test/level06/lesson11/home03/Solution.java" />
-        <option value="$PROJECT_DIR$/src/com/javarush/test/level06/lesson11/home04/Solution.java" />
-        <option value="$PROJECT_DIR$/src/com/javarush/test/level06/lesson11/home05/Solution.java" />
-        <option value="$PROJECT_DIR$/src/com/javarush/test/level06/lesson11/home06/Solution.java" />
-        <option value="$PROJECT_DIR$/src/com/javarush/test/level06/lesson11/home07/Solution.java" />
-        <option value="$PROJECT_DIR$/src/com/javarush/test/level06/lesson11/bonus01/Solution.java" />
-        <option value="$PROJECT_DIR$/src/com/javarush/test/level06/lesson11/bonus02/Solution.java" />
-        <option value="$PROJECT_DIR$/src/com/javarush/test/level07/lesson04/task05/Solution.java" />
         <option value="$PROJECT_DIR$/src/com/javarush/test/level07/lesson04/task01/Solution.java" />
         <option value="$PROJECT_DIR$/src/com/javarush/test/level07/lesson04/task02/Solution.java" />
         <option value="$PROJECT_DIR$/src/com/javarush/test/level07/lesson04/task03/Solution.java" />
         <option value="$PROJECT_DIR$/src/com/javarush/test/level07/lesson04/task04/Solution.java" />
         <option value="$PROJECT_DIR$/src/com/javarush/test/level06/lesson11/bonus03/Solution.java" />
+        <option value="$PROJECT_DIR$/src/com/javarush/test/level06/lesson11/bonus02/Solution.java" />
+        <option value="$PROJECT_DIR$/src/com/javarush/test/level07/lesson06/task01/Solution.java" />
+        <option value="$PROJECT_DIR$/src/com/javarush/test/level07/lesson06/task02/Solution.java" />
+        <option value="$PROJECT_DIR$/src/com/javarush/test/level07/lesson06/task03/Solution.java" />
+        <option value="$PROJECT_DIR$/src/com/javarush/test/level07/lesson06/task04/Solution.java" />
+        <option value="$PROJECT_DIR$/src/com/javarush/test/level07/lesson06/task05/Solution.java" />
+        <option value="$PROJECT_DIR$/src/com/javarush/test/level07/lesson09/task01/Solution.java" />
+        <option value="$PROJECT_DIR$/src/com/javarush/test/level07/lesson09/task02/Solution.java" />
+        <option value="$PROJECT_DIR$/src/com/javarush/test/level07/lesson09/task03/Solution.java" />
+        <option value="$PROJECT_DIR$/src/com/javarush/test/level07/lesson09/task04/Solution.java" />
+        <option value="$PROJECT_DIR$/src/com/javarush/test/level07/lesson09/task05/Solution.java" />
       </list>
     </option>
   </component>
@@ -505,26 +673,8 @@
               <option name="myItemId" value="test" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
-          </PATH>
-          <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="JavaRushHomeWork" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="JavaRushHomeWork" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="test" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="level05" />
+              <option name="myItemId" value="level07" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -546,15 +696,11 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="level05" />
+              <option name="myItemId" value="level07" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="lesson07" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="task05" />
+              <option name="myItemId" value="lesson04" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -576,11 +722,33 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="level05" />
+              <option name="myItemId" value="level07" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="lesson07" />
+              <option name="myItemId" value="lesson04" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="task01" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="JavaRushHomeWork" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="JavaRushHomeWork" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="test" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -609,11 +777,11 @@
     <configuration default="false" name="Solution" type="Application" factoryName="Application" temporary="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="com.javarush.test.level06.lesson11.bonus03.*" />
+          <option name="PATTERN" value="com.javarush.test.level07.lesson09.task05.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="com.javarush.test.level06.lesson11.bonus03.Solution" />
+      <option name="MAIN_CLASS_NAME" value="com.javarush.test.level07.lesson09.task05.Solution" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -822,7 +990,11 @@
       <created>1421078792321</created>
       <updated>1421078792321</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="JavaRush 13.01.2015 (from office)">
+      <created>1421164852122</created>
+      <updated>1421164852122</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -894,7 +1066,7 @@
     <option name="MAXIMUM_HISTORY_ROWS" value="1000" />
     <option name="FORCE_NON_EMPTY_COMMENT" value="false" />
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="false" />
-    <option name="LAST_COMMIT_MESSAGE" value="JavaRush 12.01.2015 (from office)" />
+    <option name="LAST_COMMIT_MESSAGE" value="JavaRush 13.01.2015 (from office)" />
     <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="true" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_FILES_UP_TO_DATE_BEFORE_COMMIT" value="false" />
@@ -912,6 +1084,7 @@
     <MESSAGE value="JavaRush 26.12.2014 (from office)" />
     <MESSAGE value="JavaRush 08.01.2015 (from office)" />
     <MESSAGE value="JavaRush 12.01.2015 (from office)" />
+    <MESSAGE value="JavaRush 13.01.2015 (from office)" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -921,117 +1094,143 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/com/javarush/test/level06/lesson11/home02/Cat.java">
+    <entry file="file://$PROJECT_DIR$/src/com/javarush/test/level06/lesson11/bonus02/Solution.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="15" column="10" selection-start="478" selection-end="478" vertical-scroll-proportion="0.0">
+        <state line="17" column="33" selection-start="735" selection-end="735" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/javarush/test/level06/lesson11/home01/Solution.java">
+    <entry file="file://$PROJECT_DIR$/src/com/javarush/test/level07/lesson06/task01/Solution.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="21" column="30" selection-start="460" selection-end="752" vertical-scroll-proportion="0.0">
-          <folding />
+        <state line="13" column="87" selection-start="375" selection-end="375" vertical-scroll-proportion="0.0">
+          <folding>
+            <element signature="e#428#436#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/javarush/test/level06/lesson11/home04/Solution.java">
+    <entry file="file://$PROJECT_DIR$/src/com/javarush/test/level07/lesson06/task02/Solution.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="30" selection-start="216" selection-end="216" vertical-scroll-proportion="0.0">
-          <folding />
+        <state line="22" column="19" selection-start="770" selection-end="770" vertical-scroll-proportion="0.0">
+          <folding>
+            <element signature="e#639#647#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/javarush/test/level06/lesson11/home05/Solution.java">
+    <entry file="file://$PROJECT_DIR$/src/com/javarush/test/level07/lesson06/task03/Solution.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="63" selection-start="420" selection-end="420" vertical-scroll-proportion="0.0">
-          <folding />
+        <state line="26" column="49" selection-start="790" selection-end="790" vertical-scroll-proportion="0.0">
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#504#512#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/javarush/test/level06/lesson11/home06/Solution.java">
+    <entry file="file://$PROJECT_DIR$/src/com/javarush/test/level07/lesson06/task04/Solution.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="5" column="88" selection-start="170" selection-end="170" vertical-scroll-proportion="0.0">
-          <folding />
+        <state line="24" column="8" selection-start="803" selection-end="803" vertical-scroll-proportion="0.0">
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#509#517#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/javarush/test/level06/lesson11/home07/Solution.java">
+    <entry file="file://$PROJECT_DIR$/src/com/javarush/test/level07/lesson06/task05/Solution.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="8" column="50" selection-start="236" selection-end="236" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files (x86)/Java/jdk1.7.0_45/src.zip!/java/lang/Integer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="526" column="0" selection-start="19370" selection-end="19370" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files (x86)/Java/jdk1.7.0_45/jre/lib/rt.jar!/sun/reflect/NativeMethodAccessorImpl.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="18" column="0" selection-start="878" selection-end="878" vertical-scroll-proportion="0.51241136">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/javarush/test/level07/lesson04/task05/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="13" column="43" selection-start="501" selection-end="501" vertical-scroll-proportion="0.0">
-          <folding />
+        <state line="3" column="37" selection-start="55" selection-end="122" vertical-scroll-proportion="0.0">
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#590#598#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/javarush/test/level07/lesson04/task01/Solution.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="30" column="71" selection-start="1016" selection-end="1016" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/javarush/test/level07/lesson04/task02/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="16" column="27" selection-start="522" selection-end="522" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/javarush/test/level07/lesson04/task03/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="17" column="51" selection-start="624" selection-end="624" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/javarush/test/level07/lesson04/task04/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="18" column="47" selection-start="580" selection-end="580" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/javarush/test/level06/lesson11/bonus03/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="7" column="99" selection-start="168" selection-end="267" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/javarush/test/level06/lesson11/bonus01/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="17" column="53" selection-start="541" selection-end="541" vertical-scroll-proportion="0.0">
+        <state line="44" column="1" selection-start="52" selection-end="1307" vertical-scroll-proportion="0.0">
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/javarush/test/level06/lesson11/bonus02/Solution.java">
+    <entry file="jar://C:/Program Files (x86)/Java/jdk1.7.0_45/src.zip!/java/lang/Object.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="41" column="70" selection-start="1552" selection-end="1552" vertical-scroll-proportion="0.79376084">
+        <state line="235" column="18" selection-start="10169" selection-end="10169" vertical-scroll-proportion="0.33275563">
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/javarush/test/level07/lesson09/task01/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="28" column="55" selection-start="1179" selection-end="1179" vertical-scroll-proportion="0.0">
+          <folding>
+            <element signature="e#785#794#0" expanded="true" />
+            <element signature="e#852#861#0" expanded="true" />
+            <element signature="e#919#928#0" expanded="true" />
+            <element signature="e#984#993#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/javarush/test/level07/lesson09/task02/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="19" column="44" selection-start="594" selection-end="594" vertical-scroll-proportion="0.0">
+          <folding>
+            <element signature="e#417#425#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/javarush/test/level07/lesson09/task03/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="16" column="62" selection-start="498" selection-end="498" vertical-scroll-proportion="0.0">
+          <folding>
+            <element signature="e#545#553#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files (x86)/Java/jdk1.7.0_45/src.zip!/java/lang/String.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="2074" column="19" selection-start="81746" selection-end="81746" vertical-scroll-proportion="0.6863085">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files (x86)/Java/jdk1.7.0_45/src.zip!/java/util/ArrayList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="324" column="24" selection-start="11562" selection-end="11569" vertical-scroll-proportion="0.18544194">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files (x86)/Java/jdk1.7.0_45/src.zip!/java/util/Arrays.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="2244" column="0" selection-start="98338" selection-end="98338" vertical-scroll-proportion="0.33275563">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/javarush/test/level07/lesson09/task04/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="42" column="86" selection-start="1006" selection-end="1006" vertical-scroll-proportion="0.0">
+          <folding>
+            <element signature="e#758#766#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/javarush/test/level07/lesson09/task05/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="26" column="30" selection-start="936" selection-end="936" vertical-scroll-proportion="0.5580589">
+          <folding>
+            <element signature="e#589#597#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
