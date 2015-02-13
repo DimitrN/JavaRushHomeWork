@@ -2,16 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="49e868cb-6c28-469e-9a04-9674b5bddb2b" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/javarush/test/level07/lesson12/home01/Solution.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/javarush/test/level07/lesson12/home02/Solution.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/javarush/test/level07/lesson12/home03/Solution.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/javarush/test/level07/lesson12/home04/Solution.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/javarush/test/level07/lesson12/home05/Solution.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/javarush/test/level07/lesson12/home06/Solution.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="JavaRushHomeWork.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/Solution.java" changelist="49e868cb-6c28-469e-9a04-9674b5bddb2b" time="1422448273306" ignored="false" />
+    <file path="/Solution.java" changelist="49e868cb-6c28-469e-9a04-9674b5bddb2b" time="1423835313170" ignored="false" />
     <file path="$PROJECT_DIR$/../ACO3/src/ua/artcode/FileUtils.java" changelist="49e868cb-6c28-469e-9a04-9674b5bddb2b" time="1419326463715" ignored="false" />
     <file path="$PROJECT_DIR$/../ACO3/homework/Useful_Information" changelist="49e868cb-6c28-469e-9a04-9674b5bddb2b" time="1422534266192" ignored="false" />
     <file path="/Useful_Information" changelist="49e868cb-6c28-469e-9a04-9674b5bddb2b" time="1419327635024" ignored="false" />
@@ -22,7 +18,7 @@
     <file path="$PROJECT_DIR$/../ACO3/src/ua/artcode/week4/day2/Cat.java" changelist="49e868cb-6c28-469e-9a04-9674b5bddb2b" time="1419327291521" ignored="false" />
     <file path="/Cat.java" changelist="49e868cb-6c28-469e-9a04-9674b5bddb2b" time="1421077195453" ignored="false" />
     <file path="$PROJECT_DIR$/../ACO3/src/JavaRush/Table_digit.java" changelist="49e868cb-6c28-469e-9a04-9674b5bddb2b" time="1419348045311" ignored="false" />
-    <file path="/Dummy.txt" changelist="49e868cb-6c28-469e-9a04-9674b5bddb2b" time="1423834880833" ignored="false" />
+    <file path="/Dummy.txt" changelist="49e868cb-6c28-469e-9a04-9674b5bddb2b" time="1423835159779" ignored="false" />
     <file path="/Dog.java" changelist="49e868cb-6c28-469e-9a04-9674b5bddb2b" time="1419584761990" ignored="false" />
     <file path="/Friend.java" changelist="49e868cb-6c28-469e-9a04-9674b5bddb2b" time="1419603347478" ignored="false" />
     <file path="/Circle.java" changelist="49e868cb-6c28-469e-9a04-9674b5bddb2b" time="1419584901706" ignored="false" />
@@ -512,15 +508,6 @@
   <component name="FileEditorManager">
     <leaf>
       <file leaf-file-name="Solution.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/javarush/test/level07/lesson09/task02/Solution.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="19" column="40" selection-start="594" selection-end="594" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Solution.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/javarush/test/level07/lesson09/task03/Solution.java">
           <provider selected="true" editor-type-id="text-editor">
             <state line="16" column="5" selection-start="498" selection-end="498" vertical-scroll-proportion="0.0">
@@ -583,10 +570,19 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Solution.java" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="Solution.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/javarush/test/level07/lesson12/home05/Solution.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="20" column="29" selection-start="533" selection-end="533" vertical-scroll-proportion="0.38901603">
+            <state line="20" column="29" selection-start="533" selection-end="533" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Solution.java" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/javarush/test/level07/lesson12/home06/Solution.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="29" column="8" selection-start="848" selection-end="848" vertical-scroll-proportion="0.565367">
               <folding />
             </state>
           </provider>
@@ -619,7 +615,6 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/src/com/javarush/test/level06/lesson11/bonus02/Solution.java" />
         <option value="$PROJECT_DIR$/src/com/javarush/test/level07/lesson06/task01/Solution.java" />
         <option value="$PROJECT_DIR$/src/com/javarush/test/level07/lesson06/task02/Solution.java" />
         <option value="$PROJECT_DIR$/src/com/javarush/test/level07/lesson06/task03/Solution.java" />
@@ -635,6 +630,7 @@
         <option value="$PROJECT_DIR$/src/com/javarush/test/level07/lesson12/home03/Solution.java" />
         <option value="$PROJECT_DIR$/src/com/javarush/test/level07/lesson12/home04/Solution.java" />
         <option value="$PROJECT_DIR$/src/com/javarush/test/level07/lesson12/home05/Solution.java" />
+        <option value="$PROJECT_DIR$/src/com/javarush/test/level07/lesson12/home06/Solution.java" />
       </list>
     </option>
   </component>
@@ -1078,7 +1074,11 @@
       <created>1422459295937</created>
       <updated>1422459295937</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="JavaRush 13.02.2015 (from office)">
+      <created>1423835169205</created>
+      <updated>1423835169205</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -1096,6 +1096,7 @@
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="IDEtalk" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32962137" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -1108,7 +1109,6 @@
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32962137" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
@@ -1150,7 +1150,7 @@
     <option name="MAXIMUM_HISTORY_ROWS" value="1000" />
     <option name="FORCE_NON_EMPTY_COMMENT" value="false" />
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="false" />
-    <option name="LAST_COMMIT_MESSAGE" value="JavaRush 28.01.2015 (from office)" />
+    <option name="LAST_COMMIT_MESSAGE" value="JavaRush 13.02.2015 (from office)" />
     <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="true" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_FILES_UP_TO_DATE_BEFORE_COMMIT" value="false" />
@@ -1172,6 +1172,7 @@
     <MESSAGE value="JavaRush 23.01.2015 (from office)" />
     <MESSAGE value="JavaRush 27.01.2015 (from office)" />
     <MESSAGE value="JavaRush 28.01.2015 (from office)" />
+    <MESSAGE value="JavaRush 13.02.2015 (from office)" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -1181,11 +1182,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="jar://C:/Program Files (x86)/Java/jdk1.7.0_45/src.zip!/java/lang/Object.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="235" column="18" selection-start="10169" selection-end="10169" vertical-scroll-proportion="0.33275563" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/javarush/test/level07/lesson09/task01/Solution.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="28" column="55" selection-start="1179" selection-end="1179" vertical-scroll-proportion="0.0" />
@@ -1278,7 +1274,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/javarush/test/level07/lesson12/home05/Solution.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="20" column="29" selection-start="533" selection-end="533" vertical-scroll-proportion="0.38901603">
+        <state line="20" column="29" selection-start="533" selection-end="533" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/javarush/test/level07/lesson12/home06/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="29" column="8" selection-start="848" selection-end="848" vertical-scroll-proportion="0.565367">
           <folding />
         </state>
       </provider>
